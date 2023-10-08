@@ -1,0 +1,9 @@
+Name:PC2
+IP_Address:10.0.1.2
+MAC_Address:b 
+Default_Gateway:10.0.1.254
+Port:Eth2
+
+ARP_Table
+10.0.1.1,a
+10.0.1.254,c

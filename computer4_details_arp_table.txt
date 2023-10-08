@@ -1,0 +1,9 @@
+Name:PC4
+IP_Address:10.0.2.2
+MAC_Address:e 
+Default_Gateway:10.0.2.254
+Port:Eth4
+
+ARP_Table
+10.0.2.1,d
+10.0.2.254,c
